@@ -1,0 +1,324 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "hindernisse": 1,
+            "GBall_Normal": {
+                "Anzahl": 3,
+                "geschwindigkeit": 5
+            }
+        },
+        {
+            "level": 2,
+            "hindernisse": 3,
+            "GBall_Normal": {
+                "Anzahl": 5,
+                "geschwindigkeit": 5
+            }
+        },
+        {
+            "level": 3,
+            "hindernisse": 3,
+            "GBall_Normal": {
+                "Anzahl": 5,
+                "geschwindigkeit": 8
+            }
+        },
+        {
+            "level": 4,
+            "hindernisse": 3,
+            "GBall_Normal": {
+                "Anzahl": 6,
+                "geschwindigkeit": 8
+            }
+        },
+        {
+            "level": 5,
+            "hindernisse": 2,
+            "GBall_Normal": {
+                "Anzahl": 6,
+                "geschwindigkeit": 10
+            }
+        },
+        {
+            "level": 6,
+            "hindernisse": 2,
+            "GBall_Two": {
+                "Anzahl": 5,
+                "geschwindigkeit": 5
+            }
+        },
+        {
+            "level": 7,
+            "hindernisse": 2,
+            "GBall_Normal": {
+                "Anzahl": 3,
+                "geschwindigkeit": 7
+            },
+            "GBall_Two": {
+                "Anzahl": 3,
+                "geschwindigkeit": 8
+            }
+        },
+        {
+            "level": 8,
+            "hindernisse": 3,
+            "GBall_Normal": {
+                "Anzahl": 2,
+                "geschwindigkeit": 7
+            },
+            "GBall_Two": {
+                "Anzahl": 3,
+                "geschwindigkeit": 10
+            }
+        },
+        {
+            "level": 9,
+            "hindernisse": 2,
+            "GBall_Normal": {
+                "Anzahl": 3,
+                "geschwindigkeit": 7
+            },
+            "GBall_Two": {
+                "Anzahl": 4,
+                "geschwindigkeit": 7
+            }
+        },
+        {
+            "level": 10,
+            "hindernisse": 2,
+            "GBall_Normal": {
+                "Anzahl": 3,
+                "geschwindigkeit": 7
+            },
+            "GBall_Two": {
+                "Anzahl": 7,
+                "geschwindigkeit": 10
+            }
+        },
+        {
+            "level": 11,
+            "hindernisse": 3,
+            "GBall_RNG": {
+                "Anzahl": 3,
+                "geschwindigkeit": 7
+            }
+        },
+        {
+            "level": 12,
+            "hindernisse": 2,
+            "GBall_RNG": {
+                "Anzahl": 3,
+                "geschwindigkeit": 10
+            },
+            "GBall_Two": {
+                "Anzahl": 2,
+                "geschwindigkeit": 10
+            }
+        },
+        {
+            "level": 13,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 2,
+                "geschwindigkeit": 8
+            },
+            "GBall_RNG": {
+                "Anzahl": 3,
+                "geschwindigkeit": 8
+            },
+            "GBall_Two": {
+                "Anzahl": 2,
+                "geschwindigkeit": 8
+            }
+        },
+        {
+            "level": 14,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 0,
+                "geschwindigkeit": 8
+            },
+            "GBall_RNG": {
+                "Anzahl": 6,
+                "geschwindigkeit": 10
+            },
+            "GBall_Two": {
+                "Anzahl": 2,
+                "geschwindigkeit": 10
+            }
+        },
+        {
+            "level": 15,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 0,
+                "geschwindigkeit": 8
+            },
+            "GBall_RNG": {
+                "Anzahl": 3,
+                "geschwindigkeit": 15
+            },
+            "GBall_Two": {
+                "Anzahl": 0,
+                "geschwindigkeit": 10
+            }
+        },
+        
+        {
+            "level": 16,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 1,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 3,
+                "geschwindigkeit": 7
+            }
+            
+        },
+        {
+            "level": 17,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 3,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 3,
+                "geschwindigkeit": 8
+            }
+            
+        },
+        {
+            "level": 18,
+            "hindernisse": 2,
+            
+            "GBall_Two": {
+                "Anzahl": 6,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 3,
+                "geschwindigkeit": 11
+            }
+            
+        },
+        {
+            "level": 19,
+            "hindernisse": 2,
+            
+            "GBall_Normal": {
+                "Anzahl": 0,
+                "geschwindigkeit": 8
+            },
+            "GBall_RNG": {
+                "Anzahl": 6,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 5,
+                "geschwindigkeit": 8
+            }
+            
+        },
+        {
+            "level": 20,
+            "hindernisse": 2,
+            
+            
+            "GBall_Verdoppler": {
+                "Anzahl": 10,
+                "geschwindigkeit": 12
+            }
+            
+        },
+        {
+            "level": 21,
+            "hindernisse": 2,
+            
+            
+            "GBall_Shoot": {
+                "Anzahl": 1,
+                "geschwindigkeit": 9
+            }
+            
+        },
+        {
+            "level": 22,
+            "hindernisse": 2,
+            
+            "GBall_Shoot": {
+                "Anzahl": 1,
+                "geschwindigkeit": 8
+            },
+            "GBall_RNG": {
+                "Anzahl": 4,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 3,
+                "geschwindigkeit": 8
+            }
+            
+        },
+        {
+            "level": 23,
+            "hindernisse": 2,
+            
+            "GBall_Shoot": {
+                "Anzahl": 2,
+                "geschwindigkeit": 8
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 6,
+                "geschwindigkeit": 10
+            }
+            
+        },
+        {
+            "level": 24,
+            "hindernisse": 2,
+            
+            "GBall_Shoot": {
+                "Anzahl": 5,
+                "geschwindigkeit": 10
+            }
+            
+        },
+        {
+            "level": 25,
+            "hindernisse": 2,
+            
+            "GBall_Shoot": {
+                "Anzahl": 1,
+                "geschwindigkeit": 8
+            },
+            "GBall_Normal": {
+                "Anzahl": 2,
+                "geschwindigkeit": 10
+            },
+            "GBall_Verdoppler": {
+                "Anzahl": 4,
+                "geschwindigkeit": 10
+            },
+            "GBall_RNG": {
+                "Anzahl": 3,
+                "geschwindigkeit": 11
+            },
+            "GBall_Two": {
+                "Anzahl": 2,
+                "geschwindigkeit": 10
+            }
+            
+        }
+
+
+    ]
+}
