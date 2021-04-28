@@ -9,3 +9,5 @@ class Farbe:
     black = (0,0,0)
     grey = (89,89,89)
     darkgreen = (0,102,0)
+
+#test
